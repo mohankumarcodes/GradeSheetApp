@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\GradeSheetApp\\GradeSheetApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC9635-41C2-4BD4-88E8-322078FFEF79}|GradeSheetApp.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\gradesheetapp\\gradesheetapp\\services\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFC9635-41C2-4BD4-88E8-322078FFEF79}|GradeSheetApp.csproj|solutionrelative:services\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC9635-41C2-4BD4-88E8-322078FFEF79}|GradeSheetApp.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\gradesheetapp\\gradesheetapp\\controllers\\gradesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFC9635-41C2-4BD4-88E8-322078FFEF79}|GradeSheetApp.csproj|solutionrelative:controllers\\gradesheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAFC9635-41C2-4BD4-88E8-322078FFEF79}|GradeSheetApp.csproj|d:\\.net\\applications\\.net\\asp.net core web api applications\\gradesheetapp\\gradesheetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAFC9635-41C2-4BD4-88E8-322078FFEF79}|GradeSheetApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeSheetController.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\GradeSheetApp\\GradeSheetApp\\Controllers\\GradeSheetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GradeSheetController.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\GradeSheetApp\\GradeSheetApp\\Controllers\\GradeSheetController.cs",
+              "RelativeToolTip": "Controllers\\GradeSheetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:16:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\GradeSheetApp\\GradeSheetApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\GradeSheetApp\\GradeSheetApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T02:15:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\GradeSheetApp\\GradeSheetApp\\Services\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "Services\\GradeCalculator.cs",
+              "ToolTip": "D:\\.NET\\Applications\\.NET\\ASP.Net Core Web API Applications\\GradeSheetApp\\GradeSheetApp\\Services\\GradeCalculator.cs",
+              "RelativeToolTip": "Services\\GradeCalculator.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:46:27.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
